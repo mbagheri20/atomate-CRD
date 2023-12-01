@@ -1,6 +1,12 @@
-# <img alt="atomate" src="https://raw.githubusercontent.com/hackingmaterials/atomate/main/docs_rst/_static/atomate_logo_small.png" width="250">
 
-This is a edited version of atomate which used for creating [Computational Raman Database](https://ramandb.oulu.fi/) using [Phonon Database](https://github.com/atztogo/phonondb)
+This is a edited version of atomate which used for creating [Computational Raman Database](https://ramandb.oulu.fi/) using [Phonon Database](https://github.com/atztogo/phonondb).
+
+* Note: This is an unofficial version of atomate and original source can be found [here](https://github.com/hackingmaterials/atomate) .
+
+## Instalation
+Original documentaion for configuring and installing atomate can be find here: https://hackingmaterials.github.io/atomate/
+You have to follow same process for this edited version.
+
 
 ## List of changed files:
 * atomate.vasp.drones
@@ -19,6 +25,8 @@ You can find the example for submitting job in main branch: Raman-CRD-WF.py
 
 If you find atomate-CRD useful, please cite the following papers in your research output:
 
+Original paper for atomate
+
 ```txt
 Mathew, K., Montoya, J. H., Faghaninia, A., Dwarakanath, S., Aykol,
 M., Tang, H., Chu, I., Smidt, T., Bocklund, B., Horton, M., Dagdelen,
@@ -27,6 +35,12 @@ A., Atomate: A high-level interface to generate, execute, and analyze
 computational materials science workflows. Comput. Mater. Sci. 139,
 140-152 (2017).
 ```
+
+- "High-throughput computation of Raman spectra from first principles",
+
+  Mohammad Bagheri & Hannu-Pekka Komsa, Sci. Data, **10**, 80 (2023)
+
+  https://doi.org/10.1038/s41597-023-01988-5 (Open access)
 
 
 ```
