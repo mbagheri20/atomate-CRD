@@ -1,11 +1,11 @@
 
-This is a edited version of atomate which used for creating [Computational Raman Database](https://ramandb.oulu.fi/) using [Phonon Database](https://github.com/atztogo/phonondb).
+This is an edited version of atomate which is used for creating [Computational Raman Database](https://ramandb.oulu.fi/) using [Phonon Database](https://github.com/atztogo/phonondb).
 
-* Note: This is an unofficial version of atomate and original source can be found [here](https://github.com/hackingmaterials/atomate) .
+* Note: This is an unofficial version of atomate and the original source can be found [here](https://github.com/hackingmaterials/atomate).
 
-## Instalation
-Original documentaion for configuring and installing atomate can be find here: https://hackingmaterials.github.io/atomate/
-You have to follow same process for this edited version.
+## Installation
+The original documentaion for configuring and installing atomate can be found here: https://hackingmaterials.github.io/atomate/
+You have to follow the same process for this edited version.
 
 
 ## List of changed files:
