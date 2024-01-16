@@ -19,7 +19,7 @@ def data_active(matid, raman_active= []):
 
 def rk_select(matid):
     db = connect('phonondb.db')
-    rows = db.select(selection=matid)
+    rows = db.select(selection='mpid='+matid)
     for row in rows:
         e_gap = row.bandgap_mp
     return e_gap
